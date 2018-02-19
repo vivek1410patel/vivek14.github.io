@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/vivek1410patel/vivek14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a first year Masters student in Computer Science at Stanford University. I am specializing in AI and deep learning.
+I did my undergrad at IIT Bombay in Electrical Engineering with minors in Computer Science. 
 
 ### Markdown
 
